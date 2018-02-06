@@ -1,0 +1,12 @@
+1) MULTIPLE LINEAR REGRESSION
+
+Dataset for 50 startups is given. Dataset consists of expenditure of startups in different departments and the profit gained by the startup.
+We have to predict the profit of the startups from test set
+
+2) POLYNOMIAL REGRESSION
+
+Dataset consists of employee's position in a company and experience and we have to predict salary according to experience and position.
+
+3) SIMPLE LINEAR REGRESSION
+
+Same dataset as above but with improved accuracy 
